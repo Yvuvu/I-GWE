@@ -1,0 +1,42 @@
+.barre{
+    margin: 0% 25%;
+}
+#mapid{
+     height: 80vh;
+}
+.corps-tete{
+    background-color: #FEFEE2 !important ;
+    
+    
+}
+.conteneur{
+  margin: 10% 15% 10% 5%;
+  height: auto;
+
+  /* justify-content: center; */
+
+}
+  
+.tete-carte {    
+background-color: #FEFEE2;
+justify-content: space-around;
+margin: 0% 0 0% 10%;
+
+}
+.corps-carte{
+    background-color: white !important;
+}
+.rounded-circle:{
+background-color:#bfd70e !important;
+/* border-radius:50% !important; */
+width:36px;
+height:36px;
+/* border:2px solid #679403 !important; */
+}
+i.fa.fa-bus.fa-2x.commandbus::before:focus{
+    background-color:#bfd70e !important;
+    border-radius:50% !important;
+    width:36px !important;
+    height:36px !important;
+    border:2px solid #679403 !important;
+      }
